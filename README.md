@@ -1,2 +1,2 @@
-# Proyecto-Software-Testing-
+# Proyecto-Software-Testing
 He creado este repositorio con el propósito de presentar una muestra de las habilidades y técnicas que he desarrollado durante mi trayectoria como QA Tester. Aquí encontrarás documentación exhaustiva y analítica que incluye casos de pruebas detallados, reportes de errores y análisis de historias de usuario. Este repositorio representa mi compromiso con la excelencia en la calidad del software y mi capacidad para realizar pruebas efectivas y meticulosas.
