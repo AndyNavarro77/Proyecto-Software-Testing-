@@ -1,6 +1,6 @@
 # Proyecto-Software-Testing
 ¡Bienvenido a este repositorio!
-creado con el propósito de presentar una muestra integral de las habilidades y técnicas desarrolladas a lo largo de mi aprendizaje como QA Tester. En este espacio, encontrarás documentación exhaustiva y análisis detallados que demuestran mi compromiso con la excelencia en la calidad del software. A continuación, se detalla el contenido disponible:
+creado con el propósito de presentar una muestra integral de las habilidades y técnicas desarrolladas a lo largo de mi aprendizaje como Analista QA. En este espacio, encontrarás documentación exhaustiva y análisis detallados que demuestran mi compromiso con la excelencia en la calidad del software. A continuación, se detalla el contenido disponible:
 
 - Casos de pruebas detallados: Descripción minuciosa de los escenarios de prueba, procedimientos y resultados esperados.
 - Reportes de errores: Informes completos sobre incidencias detectadas, su impacto, resultado esperado, resultado obtenido.
